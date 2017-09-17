@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.09</jsp-version>
+    <short-name>Week 3 Exercise 2</short-name>
+    <uri>http://matc.edu/tags2</uri>
+    <tag>
+        <name>Exercise2Message</name>
+        <tag-class>edu.matc.week3exercise2.Week3Exercise</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
